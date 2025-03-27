@@ -4,7 +4,7 @@
   </picture>
 </p>
 
-<h1 align="center">Hi 👋, I'm Tharusha Nethmina Dasanayaka</h1>
+<h1 align="center">Hi 👋, I'm Pamidu Suraweera</h1>
  <p aling="center"> <a align="right" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hellow..&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;Software+Developer,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a></p>
 
 <p align="center">
@@ -23,10 +23,8 @@
 
 - 💬 Ask me about *Web development | OOC*
 
-- 📫 How to reach me *tharushanethminadasanayaka@gmail.com*
+- 📫 How to reach me *Dazinodev@gmail.com*
   
-- ⚡ Fun fact *Call me as TN_MASTER_DEV*
-- :school: I am a Junior Student  at [Java Institute for Advanced Technology](https://www.javainstitute.edu.lk/)
 - :technologist: I love using Software as a solution for every Problem.
 - :computer: I am a competitive programmer at Codeforces, Atcoder, Leetcode, Codechef, Google Contests.
 - :student: I’m currently learning Computer Science and Software Engineering.
